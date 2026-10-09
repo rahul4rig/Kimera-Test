@@ -1,0 +1,6 @@
+{
+  "name": "Kimera AI Style Preview",
+  "description": "AI-powered visual hairstyle render at the chair before the first cut. Co-branded with Kimera Jayanagar, Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
